@@ -1,0 +1,64 @@
+*{
+    margin: 0%;
+
+}
+.img-portada{
+    width: 100%;
+    height: 90vh;
+    
+}
+.fotop{
+    width: 300px;
+    height:350px;
+    
+}
+.texto{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.icono-lenguaje{
+    width: 200px;
+    height: 200px;
+    border-radius: 30%; 
+}
+.tecnologias{
+    height: 70vh;
+}
+.padre-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: medium;
+    border-radius: 30px; 
+    object-fit: cover;
+}
+
+.text{
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(7, 7, 91);
+    border-color: black;
+    color: white;
+}
+
+.boton-form{
+    border-radius: 30px;
+    padding: 10px;
+    color: white;
+    background-color: rgb(13, 13, 57);
+    display: flex;
+    justify-content: right;
+}
+.color-form{
+    color: rgb(7, 7, 91);
+}
+.contactame{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.buton{
+    color: white;
+    background-color: black;
+    border-radius: 20px;
+}
